@@ -1,0 +1,25 @@
+{
+  "name": "ZombieJS",
+  "version": "0.0.0",
+  "description": "Testing using headless browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "testing",
+    "headless",
+    "browser"
+  ],
+  "dependencies": {
+    "zombie": "^3.1.1",
+    "jasmine-node": "latest"
+  },
+  "author": "Eduardo Chaves",
+  "license": "BSD",
+  "devDependencies": {
+    "zombie": "^3.1.1",
+    "jasmine-node": "latest"
+  }
+}
